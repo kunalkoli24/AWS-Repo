@@ -1,2 +1,3 @@
 Hello
 Using "Pull SCM", so now build number 3 will be build.
+Now using "GitHub hook trigger".
